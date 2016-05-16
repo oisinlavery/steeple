@@ -1,0 +1,22 @@
+.site-container {
+  max-width: 1080px;
+
+  margin: auto;
+  padding: 64px 0;
+  min-width: 320px;
+}
+
+.site-content {
+  border-radius: 2px;
+  padding: 32px;
+  min-height: auto;
+}
+
+.site-address {
+  font-size: 14px;
+}
+
+.site-image {
+  width: 100%;
+  margin-bottom: 32px;
+}
